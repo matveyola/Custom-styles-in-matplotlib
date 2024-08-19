@@ -1,0 +1,22 @@
+#colors
+axes.prop_cycle: cycler('color', ["#FDABAB", "#FFD7A6", "#F7FAB2", "#C6F8BD", "#95F1FA", "#9BBFF8", "#FAC1FA"])
+   
+# background: light grey
+figure.facecolor: "#E4EAF2"
+axes.facecolor: "#E4EAF2"
+savefig.facecolor: "#E4EAF2"
+
+# edges
+axes.edgecolor: "#736048"      # axes edge color
+axes.linewidth: 1.2     # edge linewidth
+grid.color: "#736048"
+
+# lines
+lines.linewidth   : 2.2     # line width in points
+
+# font 
+font.family: monospace
+text.color: "#736048"
+axes.labelcolor: "#736048"
+xtick.color: "#736048"
+ytick.color: "#736048"
